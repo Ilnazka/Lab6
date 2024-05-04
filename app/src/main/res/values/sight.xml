@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Манагуа">
+        <item>Puerto Salvador Allende</item>
+        <item>The National Palace of Culture</item>
+        <item>Plaza de la Revolucion</item>
+    </string-array>
+    <string-array name="Леон">
+        <item>Mercado del Conde Luna</item>
+        <item>Mercado de la Plaza Mayor</item>
+        <item>Mercadillo de Alimentacion de Leon</item>
+    </string-array>
+    <string-array name="Чинандега">
+        <item>Flor de Cana Tour</item>
+        <item>Volcan Cosiguina</item>
+        <item>Chorotega-Nicarao Museum</item>
+    </string-array>
+    <string-array name="Масая">
+        <item> Masaya Volcano National Park</item>
+        <item>Laguna de Apoyo</item>
+        <item>Masaya Volcano</item>
+    </string-array>
+    <string-array name="Эстели">
+        <item>Reserva Natural Miraflor</item>
+        <item>El Jalacate</item>
+        <item>Esteli Waterfall</item>
+    </string-array>
+    <string-array name="Типитапа">
+        <item>Banos de Aguas Termales en Tipitapa</item>
+    </string-array>
+    <string-array name="Матагальпа">
+        <item>La Cascada de la Luna</item>
+        <item> Mirador El Calvario</item>
+        <item>Cascada Santa Emilia</item>
+    </string-array>
+    <string-array name="Гранада">
+        <item>Generalife</item>
+        <item>Mirador de San Nicolas</item>
+        <item> Albayzin</item>
+    </string-array>
+    <string-array name="Сьюдад_Сандино">
+        <item>Show Me Nicaragua Tours</item>
+        <item>Top Cat</item>
+        <item>Plaza La Fe</item>
+    </string-array>
+    <string-array name="Хуигальпа">
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Nikaragua">
+        <item>Манагуа</item>
+        <item>Леон</item>
+        <item>Чинандега</item>
+        <item>Масая</item>
+        <item>Эстели</item>
+        <item>Типитапа</item>
+        <item>Матагальпа</item>
+        <item>Гранада</item>
+        <item>Сьюдад_Сандино</item>
+        <item>Хуигальпа</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Франция</item>
+        <item>Испания</item>
+        <item>Португалия</item>
+        <item>Никарагуа</item>
+        <item>Монголия</item>
+        <item>Великобритания</item>
+        <item>Малайзия</item>
+        <item>Литва</item>
+        <item>Словакия</item>
+        <item>Польша</item>
+        <item>Эстония</item>
+        <item>Румыния</item>
+        <item>Молдова</item>
+        <item>Хорватия</item>
+        <item>Япония</item>
+        <item>Китай</item>
+        <item>Намибия</item>
+        <item>Мадагаскар</item>
+        <item>Белоруссия</item>
+        <item>Бангладеш</item>
+        <item>Алжир</item>
+        <item>Ангола</item>
+        <item>Греция</item>
+        <item>Киргизия</item>
+        <item>Мали</item>
+        <item>Непал</item>
+        <item>Южная Корея</item>
+        <item>КНДР</item>
+    </string-array>
+</resources>
